@@ -1,0 +1,11 @@
+C:\Users\MuhammedMelihYıldız\source\repos\Proje1\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\MuhammedMelihYıldız\source\repos\Proje1\Proje1\bin\Debug\Proje1.exe
+C:\Users\MuhammedMelihYıldız\source\repos\Proje1\Proje1\bin\Debug\Proje1.pdb
+C:\Users\MuhammedMelihYıldız\source\repos\Proje1\Proje1\obj\Debug\Proje1.csproj.AssemblyReference.cache
+C:\Users\MuhammedMelihYıldız\source\repos\Proje1\Proje1\obj\Debug\Proje1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MuhammedMelihYıldız\source\repos\Proje1\Proje1\obj\Debug\Proje1.Form1.resources
+C:\Users\MuhammedMelihYıldız\source\repos\Proje1\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\MuhammedMelihYıldız\source\repos\Proje1\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+C:\Users\MuhammedMelihYıldız\source\repos\Proje1\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\MuhammedMelihYıldız\source\repos\Proje1\Proje1\obj\Debug\Proje1.exe
+C:\Users\MuhammedMelihYıldız\source\repos\Proje1\Proje1\obj\Debug\Proje1.pdb
