@@ -1,0 +1,11 @@
+C:\Users\MuhammedMelihYıldız\source\repos\Ödev2\Ödev2\bin\Debug\Ödev2.exe.config
+C:\Users\MuhammedMelihYıldız\source\repos\Ödev2\Ödev2\bin\Debug\Ödev2.exe
+C:\Users\MuhammedMelihYıldız\source\repos\Ödev2\Ödev2\bin\Debug\Ödev2.pdb
+C:\Users\MuhammedMelihYıldız\source\repos\Ödev2\Ödev2\obj\Debug\Ödev2.csproj.AssemblyReference.cache
+C:\Users\MuhammedMelihYıldız\source\repos\Ödev2\Ödev2\obj\Debug\Ödev2.csproj.SuggestedBindingRedirects.cache
+C:\Users\MuhammedMelihYıldız\source\repos\Ödev2\Ödev2\obj\Debug\Ödev2.Form1.resources
+C:\Users\MuhammedMelihYıldız\source\repos\Ödev2\Ödev2\obj\Debug\Ödev2.Properties.Resources.resources
+C:\Users\MuhammedMelihYıldız\source\repos\Ödev2\Ödev2\obj\Debug\Ödev2.csproj.GenerateResource.cache
+C:\Users\MuhammedMelihYıldız\source\repos\Ödev2\Ödev2\obj\Debug\Ödev2.csproj.CoreCompileInputs.cache
+C:\Users\MuhammedMelihYıldız\source\repos\Ödev2\Ödev2\obj\Debug\Ödev2.exe
+C:\Users\MuhammedMelihYıldız\source\repos\Ödev2\Ödev2\obj\Debug\Ödev2.pdb
